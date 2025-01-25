@@ -255,7 +255,7 @@ export default function Home() {
           <div className="flip-card-back bg-white rounded-3xl shadow-2xl p-4 sm:p-8 pulsing-border paper-texture relative">
             <div className="animated-pattern" />
             <div className="max-w-2xl mx-auto">
-              <pre className="whitespace-pre-wrap font-['Caveat'] text-justify text-sm sm:text-xl leading-snug text-gray-800 typewriter" style={{ animationDelay: '0.8s' }}>
+              <pre className="whitespace-pre-wrap font-['Caveat'] text-justify text-lg sm:text-xl leading-snug text-gray-800 typewriter" style={{ animationDelay: '0.8s' }}>
                 {displayedText}
               </pre>
               <div className="relative mt-8 flex justify-center">
