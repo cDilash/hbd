@@ -10,7 +10,7 @@ Happy 24th Birthday! 🎉🎂💖
 
 I just want to say how incredible you are as a person. You have this amazing energy that can light up a room and bring it to life—you’re always so full of life, always smiling 😊, and your positivity is absolutely contagious ✨. You have this way of making everyone feel good, and I think that’s such a rare and beautiful quality 💕.
 
-You’re not just kind and cool 😎, but you’re also genuinely one of the most beautiful people—inside and out—that I’ve ever had the chance to know. I feel so lucky that we met—you’ve definitely made my life better just by being in it 🫶.
+You’re not just beautiful on the outside (and you absolutely are 😍); you’re also deeply kind and effortlessly awesome. I feel so lucky that we met—you’ve definitely made my life better just by being in it 🫶.
 
 I hope your birthday is as amazing as you are and that the year ahead brings you all the happiness and love you deserve 🥳🎁. You’re seriously one of a kind 🌟.
 
