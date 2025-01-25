@@ -20,7 +20,20 @@ I hope this year is full of everything you deserve: love, laughter, success, and
 
 Have the happiest birthday—today and always. 🎊🎈💫`;
 
-const FloatingElement = ({ children, delay = 0, index = 0, className = "" }) => {
+
+interface FloatingElementProps {
+  children: React.ReactNode;
+  delay?: number;
+  index?: number;
+  className?: string;
+}
+
+const FloatingElement = ({ 
+  children, 
+  delay = 0, 
+  index = 0, 
+  className = "" 
+}: FloatingElementProps) => {
   const duration = 3 + (index % 3);
   
   return (
@@ -47,7 +60,7 @@ const firework = () => {
     return Math.random() * (max - min) + min;
   }
 
-  const interval: NodeJS.Timer = setInterval(() => {
+  const interval: NodeJS.Timeout = setInterval(() => {
     const timeLeft = animationEnd - Date.now();
 
     if (timeLeft <= 0) {
