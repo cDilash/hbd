@@ -8,17 +8,14 @@ import confetti from 'canvas-confetti';
 const message = `Dear Harriet!
 Happy 24th Birthday! 🎉🎂💖
 
-You are someone truly worth celebrating—someone who lights up the lives of everyone lucky enough to know you. ✨You have this extraordinary ability to lift people up, to make them feel seen and valued, and to bring joy wherever you go. Your energy is electric ⚡, your smile is pure magic 😊, and your heart is one of the kindest I've ever known. 💕
+I just want to say how incredible you are as a person. You have this amazing energy that can light up a room and bring it to life—you’re always so full of life, always smiling 😊, and your positivity is absolutely contagious ✨. You have this way of making everyone feel good, and I think that’s such a rare and beautiful quality 💕.
 
-You're not just beautiful on the outside (though you absolutely are 😍); it's your inner beauty—your warmth, your kindness, your strength—that leaves the deepest mark on everyone who meets you. I feel so lucky to have crossed paths with you in this lifetime. Meeting you has been one of the best things that ever happened to me, and I'll always be grateful for that. 🫶
+You’re not just kind and cool 😎, but you’re also genuinely one of the most beautiful people—inside and out—that I’ve ever had the chance to know. I feel so lucky that we met—you’ve definitely made my life better just by being in it 🫶.
 
-As you step into another year, I just want you to know how much potential I see in you. 🌟 You're capable of achieving anything you dream of, and I hope you never underestimate just how amazing and powerful you are. 💪 You inspire others without even realizing it—your courage, your confidence, and your endless kindness remind the rest of us to be better.
+I hope your birthday is as amazing as you are and that the year ahead brings you all the happiness and love you deserve 🥳🎁. You’re seriously one of a kind 🌟.
 
-Thank you for being exactly who you are. You've left a mark on my life in a way I'll never forget, and I'll always be rooting for you—then, now, and forever. 💙
-
-I hope this year is full of everything you deserve: love, laughter, success, and moments that make you feel as special as you truly are. You're one of a kind, and I'll always be proud of you. 🥳✨
-
-Have the happiest birthday—today and always. 🎊🎈💫`;
+Always proud—then, now, and forever. 💙
+Take care and have the best day ever! 🎊🎈💫`;
 
 
 interface FloatingElementProps {
